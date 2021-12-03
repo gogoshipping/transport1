@@ -65,10 +65,11 @@
       "settings": {
         "main": true,
         "title": "Нүүр хуудас | GoGo Shipping Service",
-        "meta_descr": "Ачаа тээврийн үйлчилгээ . Бид таньд ачаа тээврийн 4 төрлийн үйлчилгээг санал болгож байна.",
+        "meta_descr": "Манайх уул уурхайн бүтээгдэхүүн тээвэр ачаа тээвэр болон Эрээн Улаанбаатар чиглэлд карго үйлчилгээ, захиалгат худалдааны үйлчилгээг таньд санал болгож байна. Утас : 99000818, 95000818",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/download-224x119.png"
       },
       "components": [
         {
