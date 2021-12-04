@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Тээвэр зууч",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2718,7 +2718,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "Үйл ажиллагаа | GoGo Shipping Service",
+        "title": "Захиалгат худалдаа | GoGo Shipping Service",
         "order": 3
       },
       "components": [
@@ -3280,7 +3280,7 @@
     },
     "page6.html": {
       "settings": {
-        "title": "Үйл ажиллагаа | GoGo Shipping Service",
+        "title": "Уул уурхайн бүтээгдэхүүн тээвэрлэлт | GoGo Shipping Service",
         "order": 2
       },
       "components": [
@@ -3842,7 +3842,7 @@
     },
     "page8.html": {
       "settings": {
-        "title": "Үйл ажиллагаа | GoGo Shipping Service",
+        "title": "Эрээн УБ газрын карго | GoGo Shipping Service",
         "order": 1
       },
       "components": [
