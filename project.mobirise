@@ -734,6 +734,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
@@ -1254,6 +1257,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
@@ -1817,6 +1823,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
@@ -2702,6 +2711,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
@@ -3264,6 +3276,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
@@ -3826,6 +3841,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
@@ -4388,6 +4406,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
@@ -4953,6 +4974,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "color": "#fafafa"
             }
           },
           "_name": "footer6",
