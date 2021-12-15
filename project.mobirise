@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Тээвэр зууч",
+    "name": "GoGo-Shipping.mn",
     "currentPage": "page7.html",
     "theme": {
       "name": "mobirise5",
@@ -52,7 +52,7 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/download-1-128x128.png",
-    "mbrsiteDomain": "h2uvzvhc68",
+    "mbrsiteDomain": "lfzle7xnnc",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -1863,7 +1863,8 @@
     "page7.html": {
       "settings": {
         "title": "Зургийн цомог | GoGo Shipping Service",
-        "order": 5
+        "order": 5,
+        "meta_descr": ""
       },
       "components": [
         {
