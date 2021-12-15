@@ -1,26 +1,52 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://gogo-shopping.mn/index.html</loc>
-	</url>
-	<url>
-		<loc>http://gogo-shopping.mn/holboo.html</loc>
-	</url>
-	<url>
-		<loc>http://gogo-shopping.mn/page5.html</loc>
-	</url>
-	<url>
-		<loc>http://gogo-shopping.mn/page7.html</loc>
-	</url>
-	<url>
-		<loc>http://gogo-shopping.mn/page4.html</loc>
-	</url>
-	<url>
-		<loc>http://gogo-shopping.mn/page6.html</loc>
-	</url>
-	<url>
-		<loc>http://gogo-shopping.mn/page8.html</loc>
-	</url>
-	<url>
-		<loc>http://gogo-shopping.mn/page9.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://gogo-shipping.mn/</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gogo-shipping.mn/index.html</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gogo-shipping.mn/page8.html</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gogo-shipping.mn/page6.html</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gogo-shipping.mn/page4.html</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gogo-shipping.mn/page5.html</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gogo-shipping.mn/page7.html</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gogo-shipping.mn/page9.html</loc>
+  <lastmod>2021-12-15T05:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
