@@ -52,7 +52,7 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/download-1-128x128.png",
-    "mbrsiteDomain": "lfzle7xnnc",
+    "mbrsiteDomain": "6vxwhzzuz8",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -60,7 +60,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-215386343-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-215386343-1');\n</script>\n"
   },
   "pages": {
     "index.html": {
